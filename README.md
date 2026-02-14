@@ -16,7 +16,8 @@ based on [Open Arena](https://github.com/OpenArena).
    The vanilla Quake III Arena engine does not support Opus.
 
 2. Download this project as a `.zip` file.
-   On GitHub press "Code" -> "Download ZIP".
+   On GitHub press "Code" ->
+   "[Download ZIP](https://github.com/WofWca/quake3-mini/archive/refs/heads/master.zip)".
 3. Rename the `quake3-mini.zip` file into `quake3-mini.pk3`.
 
 4. Alongside the `quake3.exe` file, create a folder named `quake3-mini`,
